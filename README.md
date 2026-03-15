@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi 👋 I'm Alishba
 
-<!--
-**alishbapeer88-beep/alishbapeer88-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+☁️ Interested in Cloud Computing & DevOps
+🐍 Working with Python, Flask and AWS
 
-Here are some ideas to get you started:
+🚀 Projects
+• Restaurant Website (Flask + AWS EC2)
+• AI University Chatbot
+• Portfolio Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills
+Python | Flask | AWS EC2 | Git | HTML | CSS
+
+📫 Connect with me
+LinkedIn www.linkedin.com/in/alishba-peer-muhammad-9a1a03357
+Medium https://medium.com/@alishbapeer88
